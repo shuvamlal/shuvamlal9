@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvamlal9&label=Profile%20views&color=0e75b6&style=flat" alt="shuvamlal9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shuvamlal" target="blank"><img src="https://img.shields.io/twitter/follow/shuvamlal?logo=twitter&style=for-the-badge" alt="shuvamlal" /></a> </p>
+<p align="left"> <a href="https://github.com/shuvamlal9" target="blank"><img src="https://img.shields.io/github/followers/shuvamlal9?style=social" alt="shuvamlal9" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/shuvamlal" target="blank"><img src="https://img.shields.io/badge/Linkedin%20@shuvamlal-blue?style=flat&logo=linkedin&labelColor=blue" alt="shuvamlal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
