@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/shuvamlal" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-512.png" alt="shuvamlal" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/shuvamlal" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png" alt="shuvamlal" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/shuvamlal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="shuvamlal" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
